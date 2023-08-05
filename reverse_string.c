@@ -13,7 +13,7 @@ void reverseString(char str[]) {
     }
 }
 
-int string_reverse() {
+int reverse_string() {
     char inputString[100];
 
     printf("Enter a string:" "");
